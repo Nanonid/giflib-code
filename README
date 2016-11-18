@@ -25,3 +25,9 @@ The project has a long and confusing history, described in history.asc
 
 The project to-do list is in TODO.
 
+== CMake Build ==
+
+%mkdir build
+%cd build
+%cmake ..
+%make

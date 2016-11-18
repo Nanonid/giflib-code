@@ -1,7 +1,10 @@
+.idea/
+build/
 *.o
 *.lo
 *.a
 *.la
+cmake_install.cmake
 INSTALL
 Makefile
 Makefile.in
